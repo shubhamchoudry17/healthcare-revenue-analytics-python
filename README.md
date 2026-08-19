@@ -1,4 +1,4 @@
-# Healthcare Data Analytics Project 🏥📊
+# Healthcare Data Analytics Project 
 
 A complete Python data analytics workflow — exploring, cleaning, integrating, analysing, and
 visualising healthcare operational data for a multi-region hospital group, covering **January
@@ -11,7 +11,7 @@ Medicine, and Paediatrics.
 
 ---
 
-## 📌 Project Objective
+## Project Objective
 
 The client needed answers to business questions across six areas:
 
@@ -27,7 +27,7 @@ from raw CSV files to a polished business report and chart set.
 
 ---
 
-## 🗂️ Datasets
+## Datasets
 
 Six source datasets were provided and integrated into a single Master Dataset:
 
@@ -42,7 +42,7 @@ Six source datasets were provided and integrated into a single Master Dataset:
 
 ---
 
-## 🛠️ Tools & Libraries
+## Tools & Libraries
 
 - **Python 3**
 - **Pandas** — data loading, cleaning, merging, aggregation
@@ -52,7 +52,7 @@ Six source datasets were provided and integrated into a single Master Dataset:
 
 ---
 
-## 🔄 Project Workflow
+## Project Workflow
 
 The project follows the five-stage workflow used by professional data analysts:
 
@@ -88,7 +88,7 @@ Produced professional charts to communicate findings:
 
 ---
 
-## 📈 Methodology Notes
+## Methodology Notes
 
 - **Revenue** is calculated as `Consultation_Fee + Treatment_Cost` for each appointment.
 - Missing values were handled contextually: categorical gaps (`Appointment_Type`, `City`) were
@@ -97,7 +97,7 @@ Produced professional charts to communicate findings:
 - Revenue was broken down by **Hospital**, **Region**, **Specialisation**, **Patient Category**,
   **Doctor**, **Treatment Type**, **Year**, and **Month**.
 
-## 📈 Key Insights
+## Key Insights
 
 > _Add 3–5 bullet points here summarising your actual findings, e.g.:_
 - Highest-revenue hospital was **[Hospital Name]**, generating **£[amount]**
@@ -107,7 +107,7 @@ Produced professional charts to communicate findings:
 
 ---
 
-## 🖼️ Sample Visualisations
+## Sample Visualisations
 
 > _Add screenshots of your charts here once exported, e.g._
 ```markdown
@@ -117,7 +117,7 @@ Produced professional charts to communicate findings:
 
 ---
 
-## 📁 Repository Structure
+## Repository Structure
 
 ```
 healthcare-data-analytics/
@@ -154,7 +154,7 @@ healthcare-data-analytics/
 
 ---
 
-## ▶️ How to Run
+## How to Run
 
 ```bash
 # Clone the repository
@@ -178,7 +178,7 @@ python ABI_Python_Project_Shubham_Choudhary.py
 
 ---
 
-## 👤 Author
+## Author
 
 **Shubham Choudhary**
 Trainee Data Analyst | Professional Careers Training and Recruitment
