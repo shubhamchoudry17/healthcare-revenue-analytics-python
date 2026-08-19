@@ -107,13 +107,19 @@ Produced professional charts to communicate findings:
 
 ---
 
-## Sample Visualisations
+## Visualisations
 
-> _Add screenshots of your charts here once exported, e.g._
-```markdown
 ![Top 10 Doctors by Revenue](visualizations/top_10_doctors_revenue.png)
+
+![Revenue by Hospital](visualizations/revenue_by_hospital.png)
+
 ![Monthly Revenue Trend](visualizations/monthly_revenue_trend.png)
-```
+
+![Patient Category Distribution](visualizations/patient_category_distribution.png)
+
+![Treatment Cost Distribution](visualizations/treatment_cost_distribution.png)
+
+![Correlation Heatmap](visualizations/correlation_heatmap.png)
 
 ---
 
