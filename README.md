@@ -182,7 +182,7 @@ python ABI_Python_Project_Shubham_Choudhary.py
 
 **Shubham Choudhary**
 Trainee Data Analyst | Professional Careers Training and Recruitment
-[LinkedIn](https://www.linkedin.com/in/shubham-choudhary-b84484200/) · [Portfolio](#) · [Email](#)
+[LinkedIn](https://www.linkedin.com/in/shubham-choudhary-b84484200/) · [Portfolio](https://github.com/shubhamchoudry17) · [Email](shubhamchoudry17@gmail.com)
 
 ---
 
